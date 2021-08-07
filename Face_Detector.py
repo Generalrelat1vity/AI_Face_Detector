@@ -1,5 +1,5 @@
 import cv2
-from random import randrange
+
 
 # Load some pre-trained data on face frontals from opencv 
 trainded_face_data = cv2.CascadeClassifier('haarcascade_frontalface_default.xml')
